@@ -2,21 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # KidConnect
-- project: KidConnect - A Social Network TestBed for Children
+- project: KidConnect - A Social Network Testbed for Children
   role: Master's Project
   # duration: 2012 &mdash; Present
   # url: "#"
   description: Designed and developed a testbed social network application to be used by children (ages 7 - 12) for the HCI lab at Boise State University to enable research in examining how children interact and share information in social media.
 
 # CryptoApp
-- project: Springfield Community Outreach Group
+- project: CryptoApp
   role: Personal
   #duration: 2007 &mdash; Present
   url: 'https://anulamatamang.github.io/cryptoapp/'
   description: A ReactJS based frontend that consumes multiple APIs from RapidAPI hub. This application showcases information and related news on prevalent cryptocurrencies.
 
 # Covid Data Visualization
-- project: Springfield Community Outreach Group
+- project: Covid Data Visualization
   role: Personal
   #duration: 2007 &mdash; Present
   url: 'https://anulamatamang.github.io/covid-data-visualization/index.html'
