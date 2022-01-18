@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# KidConnect
+- project: KidConnect - A Social Network TestBed for Children
+  role: Master's Project
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Designed and developed a testbed social network application to be used by children (ages 7 - 12) for the HCI lab at Boise State University to enable research in examining how children interact and share information in social media.
 
-# Springfield Community Outreach Group
+# CryptoApp
 - project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  role: Personal
+  #duration: 2007 &mdash; Present
+  url: 'https://anulamatamang.github.io/cryptoapp/'
+  description: A ReactJS based frontend that consumes multiple APIs from RapidAPI hub. This application showcases information and related news on prevalent cryptocurrencies.
+
+# Covid Data Visualization
+- project: Springfield Community Outreach Group
+  role: Personal
+  #duration: 2007 &mdash; Present
+  url: 'https://anulamatamang.github.io/covid-data-visualization/index.html'
+  description: A visualization on covid data. The application showcases line chart visual for individual countries and a world-map visualization of covid information.
+
+# Covid Data Visualization
+- project: Javascript game - Flappy Bird
+  role: Personal
+  #duration: 2007 &mdash; Present
+  url: 'https://anulamatamang.github.io/covid-data-visualization/index.html'
+  description: A fun project with object oriented programming with Javascript.

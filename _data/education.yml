@@ -1,13 +1,11 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master's in Computer Science
+  uni: Boise State University, Boise, ID, USA
+  year: Aug, 2019 &mdash; Dec, 2021
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Summa Cumme Laude graduate 3.957/4.0
+  summary: <code>Introduction to Data Science, Machine Learning, Databases, Adv. Software Engineering, Distributed Systems, Object Oriented Design Patterns  </code>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor's in Computer Engineering
+  uni: Kantipur Engineering College, Tribuban University, Nepal
+  year: 2013 &mdash; 2016
