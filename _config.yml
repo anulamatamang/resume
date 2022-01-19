@@ -1,6 +1,6 @@
 # Site settings
 title: "Anu Lama's Resume"
-description: 'This is a resume for Anu Lama.'
+description: 'My Resume.'
 
 # Build settings
 markdown: kramdown
@@ -20,8 +20,8 @@ resume_contact_email: 'anulama@u.boisestate.edu'
 resume_contact_telephone: '208-917-0950'
 resume_contact_address: 'Boise, ID'
 
-resume_header_contact_info: '742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com'
-display_header_contact_info: 'false'
+resume_header_contact_info: 'Boise, ID • 208-917-0950 • anulama@u.boisestate.edu'
+display_header_contact_info: 'true'
 
 resume_header_intro: '<p>I am a recent CS graduate looking for web development opportunities. I am interested in developing React applications with NodeJS but I am able and open to work with any tech stack.</p>'
 
